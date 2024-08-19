@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/oasisconsult/compose-form.svg)](https://jitpack.io/#oasisconsult/compose-form)
 # Android Compose Form Library
 ![https://jitpack.io/#benjamin-luescher/compose-form](https://jitpack.io/v/benjamin-luescher/compose-form.svg)
 
